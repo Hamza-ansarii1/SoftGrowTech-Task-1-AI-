@@ -108,6 +108,6 @@ python "Project 3 Recommendation System Python.py"
 
 ## Author
 
-**Hamza Ansari**
+**Hamza Naeem Ansari**
 
 Remote AI Intern – SoftGrowTech, India
